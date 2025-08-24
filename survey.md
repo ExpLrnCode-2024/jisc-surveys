@@ -1,5 +1,5 @@
 ---
-title: Survey
+title: Interview Sign-up Survey
 subtitle: Student Experiences and Perspectives on Learning to Code in 2024
 date: 2024-09
 abstract: |
@@ -22,8 +22,8 @@ other-links:
     target: _blank
 
 metadata-files:
+  - metadata/authors-joe.yml
   - metadata/format.yml
-  - metadata/joe.yml
   - metadata/meta.yml
 ---
 

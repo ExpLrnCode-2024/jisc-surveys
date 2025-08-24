@@ -22,8 +22,8 @@ other-links:
     target: _blank
 
 metadata-files:
+  - metadata/authors-joe.yml
   - metadata/format.yml
-  - metadata/joe.yml
   - metadata/meta.yml
 ---
 
