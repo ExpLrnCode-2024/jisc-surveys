@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # Jisc surveys
 
 This repository contains the [Jisc](https://onlinesurveys.jisc.ac.uk/) surveys created for the [Experiences of Learning to Code](https://github.com/ExpLrnCode-2024) project.
@@ -21,3 +23,5 @@ The most convenient way to view these surveys is through the following URLs, whi
 **TODO**
 
 
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
