@@ -2,8 +2,10 @@
 title: Participant Information & Informed Consent
 subtitle: Experiences of Learning to Code
 date: 2024-09
-abstract: This is the combined _Participant Information_ and _Informed Consent_ form, which students were required to have completed prior to their interview commencing. The original form was a [Jisc Online Surveys v3](https://onlinesurveys.jisc.ac.uk/) survey, and has been converted to markdown format here. 
-The Jisc survey was also directly exported to both PDF and JSON formats (the latter can be used to recreate the survey), which are available under 'Other Links' on the right navigation panel.
+abstract: |
+    This is the combined _Participant Information_ and _Informed Consent_ form, which students were required to have completed prior to their interview commencing.
+    The original form was a [Jisc Online Surveys v3](https://onlinesurveys.jisc.ac.uk/) survey, and has been converted to markdown format here.
+    The Jisc survey was also directly exported to both PDF and JSON formats (the latter can be used to recreate the survey), which are available under 'Other Links' on the right navigation panel.
 
 resources: 
   - jisc_export/participant_info.pdf
