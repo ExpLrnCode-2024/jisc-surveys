@@ -18,10 +18,7 @@ Both surveys are provided in three forms:
 
 3. `.json`: A JSON file produced from the original survey using Jisc's 'export' function. This can be directly loaded into Jisc to recreate the survey.
 
-The most convenient way to view these surveys is through the following URLs, which like to the GitHub Pages site:
-
-**TODO**
-
+The most convenient way to view these documents is via the [GitHub Pages site](https://ExpLrnCode2024.github.io) for the project.
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
