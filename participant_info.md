@@ -14,11 +14,11 @@ resources:
 other-links:
   - text: "Jisc survey (PDF)"
     icon: file-pdf
-    href: jisc/participant_info.pdf
+    href: jisc_export/participant_info.pdf
     target: _blank
   - text: "Jisc survey (JSON)"
     icon: braces
-    href: jisc/participant_info.json
+    href: jisc_export/participant_info.json
     target: _blank
 
 metadata-files:
